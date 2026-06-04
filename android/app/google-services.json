@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "25253366847",
+    "project_id": "imas-fleet-app",
+    "storage_bucket": "imas-fleet-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25253366847:android:2565d556306adaff66fc8a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_trial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25253366847-1o191u2pm0mf2esp9sil714d9unaivt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_trial",
+            "certificate_hash": "d4e441e8c10e6f0bcdad116a7fc2c29e7067f0d2"
+          }
+        },
+        {
+          "client_id": "25253366847-7d24an0cvppt35tdsdi3lvl1il4t1761.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMGPSQauQAYc630Bv3onSIokwdZpqvS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25253366847-7d24an0cvppt35tdsdi3lvl1il4t1761.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25253366847-l7elvu7smh31v231rrf3oqv1ng39h0u4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTrial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
